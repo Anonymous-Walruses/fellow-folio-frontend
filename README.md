@@ -1,4 +1,4 @@
-# fellowfolio-frontend
+# [fellowfolio-frontend](https://anonymous-walruses.github.io/fellowfolio-frontend/)
 
 ## Project setup
 ```
